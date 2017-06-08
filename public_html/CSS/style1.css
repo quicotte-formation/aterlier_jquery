@@ -1,0 +1,24 @@
+.ligne-clic{
+    background-color: orange;
+    font-size: 24px;
+}
+
+.ligne-paire{
+    background-color: blue;
+}
+
+.ligne-impaire{
+    background-color: ivory;
+}
+
+.rouge{
+    background-color: red;
+}
+
+.vert{
+    background-color: green;
+}
+
+.jaune{
+    background-color: yellow;
+}
